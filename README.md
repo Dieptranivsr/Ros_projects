@@ -24,13 +24,14 @@ Further we build the drone_sim package that currently used for following tasks :
 
 #### Tree structure of the given package is :
 .
+```bash
 ├── CMakeLists.txt
 ├── package.xml
 └── src
     ├── arming_call.py
     ├── mode_publisher.py
     └── state_subscriber.py
-
+```
 #### References 
 https://dev.px4.io/master/en/
 https://wiki.ros.org/mavros
